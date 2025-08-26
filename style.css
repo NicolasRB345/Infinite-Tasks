@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(./assets/background_todolist.jpg) no-repeat center center/cover;
+    background: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2VzL3dlYnNpdGUvMjAyMi0wNS9wZDM2LTEtZ3NmY18yMDE3MTIwOF9hcmNoaXZlX2UwMDE2NTEtam9iNTgyLTJfMS5qcGc.jpg) no-repeat center center/cover;
 }
 
 .empty-image {
