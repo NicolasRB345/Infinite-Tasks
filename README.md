@@ -1,8 +1,8 @@
-# My-Easy-Task 📝
+# Infinite Tasks 📝
 
 A simple and intuitive to-do list application to help you manage your daily tasks effectively. This project is built with a clean and user-friendly interface to ensure a seamless user experience.
 
-![My-Easy-Task Screenshot](assets\image.png) 
+![My-Easy-Task Screenshot](assets/image.png) 
 ---
 
 ## ✨ Features
